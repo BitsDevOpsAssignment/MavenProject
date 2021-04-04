@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<suite name="Sample test Suite">
+	
+	<test name="Sample test 1">
+		<classes>
+
+			<class name="MavenProject.Myclass1" />
+			<class name="MavenProject.Myclass2" />
+			
+		</classes>
+	</test>
+
+
+
+</suite>
